@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: f3598a3d67d9a294ab60b97cf8aa6d84
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 374c1f0007e057c4e90b55951a6deac3
+  - enabled: 1
+    path: Assets/Scenes/Full House.unity
+    guid: 99eecf544f819024fb80305f21936932
+  - enabled: 1
+    path: Assets/Scenes/Training.unity
+    guid: 28cfcd3fd9eb6ab489ddfa94644b27a6
+  - enabled: 0
+    path: 
+    guid: 54ff43f70938f1d45809236c023445f2
+  - enabled: 0
+    path: 
+    guid: bc021588062214a419dbd74520bcfb9c
+  - enabled: 1
+    path: Assets/Scenes/credits.unity
+    guid: c79a8ac19cd140c4caaf818be32f156f
+  - enabled: 1
+    path: Assets/Scenes/Tournament.unity
+    guid: 7fad1452bdbef1448ac5d563fcee5ef6
+  m_configObjects: {}
